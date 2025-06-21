@@ -1,4 +1,4 @@
-# 🧠 Coca-Cola-Stock-Price-Analysis
+# 📈 Coca-Cola-Stock-Price-Analysis
 
 This project contains an interactive Jupyter notebook focused on analyzing and backtesting trading strategies using historical market data. It is designed to help traders and analysts evaluate strategy performance, visualize key indicators, and refine parameters for better decision-making.
 
