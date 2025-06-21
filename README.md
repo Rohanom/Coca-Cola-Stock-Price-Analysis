@@ -16,6 +16,33 @@ This project contains an interactive Jupyter notebook focused on analyzing and b
 - 📈 Visualizations for signals, trades, and performance comparison
 - 📂 Option to export results for further analysis
 
+## 🧰 Tech Stack
+
+### 🖥️ Programming Language
+- **Python 3.7+**
+
+### 📚 Libraries & Tools
+- **Pandas** – data manipulation and time series handling
+- **NumPy** – numerical computations
+- **Matplotlib & Seaborn** – data visualization
+- **yfinance** – fetching historical financial data
+- **TA (Technical Analysis)** – built-in technical indicators (e.g., RSI, MACD, SMA)
+- **Jupyter Notebook** – interactive coding and documentation
+
+### 📊 Financial Data
+- **Yahoo Finance API** (via `yfinance`)
+
+### 🧪 Strategy & Backtesting
+- Custom logic implemented for:
+  - Signal generation (e.g., crossover, momentum)
+  - Trade simulation and portfolio management
+  - Performance evaluation (returns, drawdown, win rate)
+
+### 🛠️ Optional Enhancements (for future scaling)
+- **Backtrader** or **QuantConnect** – full-fledged backtesting engines
+- **Plotly** – interactive visualizations
+- **SQL/SQLite** – data storage for larger datasets
+
 ## 🚀 How to Run
 
 1. **Install Requirements**
