@@ -1,5 +1,4 @@
-# Coca-Cola-Stock-Price-Analysis
-# 🧠 Analysis and Backtesting V2
+# 🧠 Coca-Cola-Stock-Price-Analysis
 
 This project contains an interactive Jupyter notebook focused on analyzing and backtesting trading strategies using historical market data. It is designed to help traders and analysts evaluate strategy performance, visualize key indicators, and refine parameters for better decision-making.
 
@@ -25,57 +24,3 @@ This project contains an interactive Jupyter notebook focused on analyzing and b
 
    ```bash
    pip install pandas numpy matplotlib seaborn yfinance ta
-Run the Notebook
-
-Open the notebook using Jupyter:
-
-bash
-Copy
-Edit
-jupyter notebook Analysis_and_Backtesting_V2.ipynb
-Configure Strategy
-
-Select your ticker symbol (e.g., 'AAPL', 'XAUUSD')
-
-Set time ranges and strategy parameters
-
-Run cells sequentially for full analysis and backtesting
-
-🛠️ Requirements
-Python 3.7+
-
-Libraries:
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-yfinance
-
-ta (Technical Analysis library)
-
-📉 Example Output
-Cumulative returns vs. benchmark
-
-Buy/sell signal plots
-
-Win rate and drawdown stats
-
-📌 Use Cases
-Strategy validation before live trading
-
-Educational use for learning financial data analysis
-
-Quantitative research
-
-🧠 Author
-Om Aditya
-2nd-Year B.Tech, IIT Jodhpur
-Passionate about trading, financial markets, and strategy automation.
-
-📜 License
-MIT License. Feel free to use and modify.
